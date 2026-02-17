@@ -1,8 +1,3 @@
-//Ikram NIARI 20236097
-//Eya ZARDI 20234306 
-//2ème année LDD SDV-INFO 
-//Projet 4 livraison de pizza  
-
 // Importation de toutes les classes utilitaires de Java (Scanner, List, Map, etc.)
 import java.util.*;
 
@@ -352,3 +347,4 @@ public class Main {
         System.out.println("→ Continuez à commander, plus que " + restantes + " pizza(s) avant une gratuite !");
     }
 }
+
